@@ -10,6 +10,9 @@ namespace GitForConflict
     {
         static void Main(string[] args)
         {
+            int x=10;
+            int d=x+X;
+            Console.Writeline(d);
         }
     }
 }
